@@ -1,4 +1,3 @@
-// app.js
 const path = require('path');
 const readline = require('readline');
 const Database = require('better-sqlite3');
